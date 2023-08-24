@@ -14,3 +14,6 @@ npm run dev
 ## USANDO API FAKE (MOBILE)
 
 ![img-pet01](https://github.com/Valderezpe/projeto_lPet/assets/48490726/942fa78c-7303-4cfe-9e8f-7ca357f69f64)
+
+## USANDO API FAKE (MOBILE)
+![home](https://github.com/Valderezpe/projeto_lPet/assets/48490726/56039faf-8015-4d91-975e-791fb12064e2)
